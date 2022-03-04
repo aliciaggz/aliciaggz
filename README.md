@@ -1,14 +1,14 @@
-### Hello world 👋
+# Hello world 👋
 
 Welcome to my github!
 
 ![Peach Watercolor Fashion   Beauty LinkedIn Banner](https://user-images.githubusercontent.com/93127418/156725538-abc4413b-0c74-4435-9cf8-9f03cb7a8538.png)
  
  
- ## You can find me
+ ## You can find me 📌
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aliciagallegogonzalez/)
  
- ## Skills and Experience
+ ## Skills and Experience 🖥️
  * Javascript
  * React
  * HTML
