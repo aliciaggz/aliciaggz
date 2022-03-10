@@ -9,8 +9,6 @@ Welcome to my github!
  <a href="https://twitter.com/gallegali"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter profile" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/aliciagallegogonzalez/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn profile" height="30" width="40" /></a>
 
-<a href=""><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="Spotify profile" height="30" width="40" /></a>
-<a href=""><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/quora.svg" alt="Quora profile" height="30" width="40" /></a>
  
  ## Skills and Experience 🖥️
  * Javascript
