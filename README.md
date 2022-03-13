@@ -20,7 +20,11 @@ Welcome to my github!
  
  ## Projects
  
+ Some of the projects i made:
  
+ | <a href="https://github.com/aliciaggz/project-dice" target="_blank">**Dice**</a> | <a href="https://github.com/aliciaggz/animebox" target="_blank">**Animebox**</a> | <a href="https://github.com/aliciaggz/drum-kit-project" target="_blank">**DrumKit**</a> | <a href="https://github.com/aliciaggz/rock-paper-scissor-game" target="_blank">**Rock Paper Scissors Game**</a> |
+| :---: | :---: | :---: | :---: |
+
  
 <!--
 **aliciaggz/aliciaggz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
